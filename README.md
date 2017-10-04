@@ -8,7 +8,8 @@
 2. [Java](https://github.com/TADSG/Book-Recommend/labels/Java?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
 3. [Gradle](https://github.com/TADSG/Book-Recommend/labels/Gradle?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
 4. [Fundation](https://github.com/TADSG/Book-Recommend/labels/Fundation?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
-5. [Others](https://github.com/TADSG/Book-Recommend/labels/Others?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
+5. [CleanCode](https://github.com/TADSG/Book-Recommend/labels/clean%20code?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
+6. [Others](https://github.com/TADSG/Book-Recommend/labels/Others?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
 
 ## 書籍推薦
 
