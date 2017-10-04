@@ -2,7 +2,7 @@
 
 ---
 
-## 目錄(可直接點擊導頁至清單頁面)
+## 目錄([可直接點擊導頁至清單頁面](https://github.com/TADSG/Book-Recommend/issues))
 
 1. [Android](https://github.com/TADSG/Book-Recommend/labels/Android?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
 2. [Java](https://github.com/TADSG/Book-Recommend/labels/Java?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
@@ -11,9 +11,9 @@
 5. [CleanCode](https://github.com/TADSG/Book-Recommend/labels/clean%20code?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
 6. [Others](https://github.com/TADSG/Book-Recommend/labels/Others?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc)
 
-## 書籍推薦
+## 書籍推薦([點我馬上開始推薦新書](https://github.com/TADSG/Book-Recommend/issues/new))
 
-可自行在此[Respository Issue](https://github.com/TADSG/Book-Recommend/issues)頁面開立建立想推薦的書籍，
+可自行在[Issue](https://github.com/TADSG/Book-Recommend/issues)頁面建立想推薦的書籍，
 維謢成員看過後，會此書進行加上分類`Labels`。
 
 可參考此以下模板編寫推薦書籍
