@@ -13,7 +13,7 @@
 
 ## 書籍推薦
 
-可自行在此`Respository Issue`頁面開立建立想推薦的書籍，
+可自行在此[Respository Issue](https://github.com/TADSG/Book-Recommend/issues)頁面開立建立想推薦的書籍，
 維謢成員看過後，會此書進行加上分類`Labels`。
 
 可參考此以下模板編寫推薦書籍
